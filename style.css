@@ -14,17 +14,17 @@ header{
 body h1{
    font-size: 50px;
    padding: 10px;
-   color: white;
+   color: black;
 }
 body h2{
     font-size: 80px;
     padding-top: 60px;
-    color: white;
+    color: black;
 }
 body h3{
     font-size: 30px;
     padding: 5px;
-    color: white;
+    color: black;
 }
 .titlediscription{
     padding-top: 70px;
